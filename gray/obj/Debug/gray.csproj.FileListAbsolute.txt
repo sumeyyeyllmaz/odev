@@ -1,0 +1,9 @@
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\bin\Debug\gray.exe.config
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\bin\Debug\gray.exe
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\bin\Debug\gray.pdb
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\obj\Debug\gray.csprojResolveAssemblyReference.cache
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\obj\Debug\gray.Form1.resources
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\obj\Debug\gray.Properties.Resources.resources
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\obj\Debug\gray.csproj.GenerateResource.Cache
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\obj\Debug\gray.exe
+c:\users\sümeyye\documents\visual studio 2015\Projects\gray\gray\obj\Debug\gray.pdb
